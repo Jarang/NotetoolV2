@@ -1,0 +1,3 @@
+rootProject.name = 'ListToolV2'
+
+include ':app'
